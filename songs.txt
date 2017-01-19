@@ -12,23 +12,23 @@
        <country>UK</country>
    </song>
        
-   <song id="2" name="U2" album="Never say never" year="2009" country="Ireland">With or without you.
-       <title>We are the champions</title>
-       <group>Queen</group>
-       <duration>4:15</duration>
-       <album id="1">Raw days</album>
-       <name age="45">Fredy Mercury</name>
-       <year>1997</year>
-       <country>UK</country>
+   <song id="2">
+       <title>With or without you</title>
+       <group>U2</group>
+       <duration>3:45</duration>
+       <album id="2">Never say never</album>
+       <name age="37">Bono</name>
+       <year>2009</year>
+       <country>Ireland</country>
    </song>
    
-   <song id='3' name="E17" album="Resurection" year="2012" country="UK">Who cares.</song>
-       <title>We are the champions</title>
-       <group>Queen</group>
+   <song id="3">
+       <title>Who cares</title>
+       <group>E17</group>
        <duration>4:15</duration>
-       <album id="1">Raw days</album>
-       <name age="45">Fredy Mercury</name>
-       <year>1997</year>
+       <album id="3">Resurection</album>
+       <name age="29">Brian Harvey</name>
+       <year>2005</year>
        <country>UK</country>
    </song>
    

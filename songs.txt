@@ -1,0 +1,10 @@
+# playlist
+<playlist>
+  <song id='1', name="Queen">We are the champions.</song>
+  <song id='2', name="U2">With or without you.</song>
+  <song id='3', name="E17">Who cares.</song>
+  <song id='4', name="Prodigy">Evolution.</song>
+  <song id='5', name="Queen">Barcelona.</song>
+  <song id='6', name="U2">Eyes.</song>
+</playlist>
+  

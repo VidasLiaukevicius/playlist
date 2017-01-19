@@ -1,8 +1,10 @@
+
 # playlist
 <playlist>
 
    <song id='1'>We are the champions.</song>
        <title>Queen</title>
+       <duration>4:15</duration>
        <album id='1'>Raw days</album>
        <name age="45">Fredy Mercury</name>
        <year>1997</year>

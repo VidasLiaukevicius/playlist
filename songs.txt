@@ -3,8 +3,10 @@
 
    <song id='1'>We are the champions.</song>
        <title>Queen</title>
-       <album year="1997" country="UK">Raw days</album>
+       <album id='1'>Raw days</album>
        <name age="45">Fredy Mercury</name>
+       <year>1997</year>
+       <country>UK</country>
        
    <song id='2' name="U2" album="Never say never" year="2009" country="Ireland">With or without you.</song>
    

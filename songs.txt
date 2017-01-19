@@ -1,10 +1,20 @@
 # playlist
 <playlist>
-   <song id='1' name="Queen" album="Raw days" year="1997" country="UK">We are the champions.</song>
+
+   <song id='1'>We are the champions.</song>
+       <title>Queen</title>
+       <album year="1997" country="UK">Raw days</album>
+       <name age="45">Fredy Mercury</name>
+       
    <song id='2' name="U2" album="Never say never" year="2009" country="Ireland">With or without you.</song>
+   
    <song id='3' name="E17" album="Resurection" year="2012" country="UK">Who cares.</song>
+   
    <song id='4' name="Prodigy" album="Crazy times" year="2007" country="UK">Evolution.</song>
+   
    <song id='5' name="Queen" album="Revolution" year="1995" country="UK">Barcelona.</song>
+   
    <song id='6' name="U2" album="XS" year="2014" country="Ireland">Eyes.</song>
+   
 </playlist>
   

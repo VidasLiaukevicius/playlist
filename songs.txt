@@ -1,15 +1,14 @@
-
 # playlist
 <playlist>
 
    <song id="1">
-       <title>We are the champions</title>
-       <group>Queen</group>
-       <duration>4:15</duration>
-       <album id="1">Raw days</album>
-       <name age="45">Fredy Mercury</name>
-       <year>1997</year>
-       <country>UK</country>
+       <title>We are the champions</title>      <!-- add comments-->
+       <group>Queen</group>                     <!-- add comments-->
+       <duration>4:15</duration>                <!-- add comments-->
+       <album id="1">Raw days</album>           <!-- add comments-->
+       <name age="45">Fredy Mercury</name>      <!-- add comments-->
+       <year>1997</year>                        <!-- add comments-->
+       <country>UK</country>                    <!-- add comments-->
    </song>
        
    <song id="2">
@@ -32,21 +31,21 @@
        <country>UK</country>
    </song>
    
-   <song id='4' name="Prodigy" album="Crazy times" year="2007" country="UK">Evolution.</song>
-       <title>We are the champions</title>
-       <group>Queen</group>
-       <duration>4:15</duration>
-       <album id="1">Raw days</album>
-       <name age="45">Fredy Mercury</name>
-       <year>1997</year>
+   <song id="4">
+       <title>Evolution</title>
+       <group>Prodigy</group>
+       <duration>3:57</duration>
+       <album id="4">Crazy times</album>
+       <name age="39">Liam Howlett</name>
+       <year>2007</year>
        <country>UK</country>
    </song>
    
-   <song id='5' name="Queen" album="Revolution" year="1995" country="UK">Barcelona.</song>
+   <song id="5" name="Queen" album="Revolution" year="1995" country="UK">Barcelona.</song>
        <title>We are the champions</title>
        <group>Queen</group>
        <duration>4:15</duration>
-       <album id="1">Raw days</album>
+       <album id="5">Raw days</album>
        <name age="45">Fredy Mercury</name>
        <year>1997</year>
        <country>UK</country>

@@ -41,13 +41,13 @@
        <country>UK</country>
    </song>
    
-   <song id="5" name="Queen" album="Revolution" year="1995" country="UK">Barcelona.</song>
-       <title>We are the champions</title>
+   <song id="5"></song>
+       <title>Barcelona</title>
        <group>Queen</group>
-       <duration>4:15</duration>
-       <album id="5">Raw days</album>
+       <duration>4:45</duration>
+       <album id="5">Revolution</album>
        <name age="45">Fredy Mercury</name>
-       <year>1997</year>
+       <year>1995</year>
        <country>UK</country>
    </song>
    
